@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently Learning
+
+I'm currently focused on expanding my skillset in the following areas:
+
+
+* Building robust web applications with Python/Django and deploying them to AWS/Azure cloud environments.
+* Exploring serverless architectures and containerization with Docker/Kubernetes for scalable and efficient deployments.
